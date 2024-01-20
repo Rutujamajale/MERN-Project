@@ -1,0 +1,29 @@
+.probox{
+    display: block;
+    margin: 25px;
+    padding: 12px;
+    width: 300px;
+    border: 2px solid skyblue;
+}
+
+.pbox{
+    margin-left: 35%;
+}
+
+.phead{
+    text-align: center;
+}
+
+#addprobtn{
+    background-color: springgreen;
+    color: darkblue;
+    font-weight: 600;
+    margin-left: 40px;
+}
+
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    display: block;
+    margin-left: 20px;
+}

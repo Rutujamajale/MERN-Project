@@ -1,0 +1,22 @@
+.signBox{
+    display: block;
+    margin: 25px;
+    padding: 12px;
+    width: 300px;
+    border: 2px solid skyblue;
+}
+
+.rbox{
+    margin-left: 35%;
+}
+
+.rhead{
+    text-align: center;
+}
+
+#signbtn{
+    background-color: springgreen;
+    color: darkblue;
+    font-weight: 600;
+    margin-left: 40px;
+}
